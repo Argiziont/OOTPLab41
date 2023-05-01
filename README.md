@@ -5,7 +5,10 @@ Develop a technical task. Show the decomposition of the task, where some of the 
 - Template Method. 
 
 Terms of reference.
-To develop a report generator system that can produce different types of reports with varying data sources, filters, and visualizations. 
+To develop application capable of generating reports for Housing compnany, this should cover reports that should display data in different formats. This system will produce different types of reports with varying data sources, filters, and visualizations. Employees need to be capable of generating reports for next cases:
+-Last 100 sold houses
+-Avg price for last quarter
+-Spots on US map with circles indicating housing popularity
 The system should also be flexible enough to generate reports in different formats such as CSV, PDF, and HTML.
 
 1. Create a set of report templates that define the structure of the reports, including any formatting rules, data sources, and visualization options. The templates should be designed in a way that allows them to be extended and customized for different types of reports.
